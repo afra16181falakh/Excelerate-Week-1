@@ -10,20 +10,7 @@ Welcome to my GitHub repository documenting my journey as an AI Data Analyst int
 - **Key Activities:**
   - Data wrangling: cleaning and transforming raw data.
   - Ensuring data quality and consistency for subsequent analysis.
-  
-### Week 2: Exploratory Data Analysis (EDA)
 
-- **Objective:** Conduct exploratory analysis to uncover trends and patterns.
-- **Key Activities:**
-  - Visualizing data to identify key insights.
-  - Assessing relationships between variables to inform predictive modeling.
-
-### Week 3: Predictive Modeling and Churn Analysis
-
-- **Objective:** Dive into predictive modeling and churn analysis based on the insights gathered.
-- **Key Activities:**
-  - Building predictive models to forecast engagement trends.
-  - Analyzing factors contributing to student churn and formulating recommendations.
 
 ## Project Goals
 
