@@ -27,10 +27,3 @@ By the end of the internship, I aim to deliver a comprehensive report and presen
 - Data Visualization Tools
 - Jupyter Notebook for analysis
 
-## Get Involved
-
-Feel free to explore this repository and reach out if you have any questions or would like to collaborate!
-
----
-
-Looking forward to sharing more updates as I progress through this exciting internship journey! 🚀
