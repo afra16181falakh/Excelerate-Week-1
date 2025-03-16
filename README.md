@@ -10,7 +10,7 @@ Welcome to my GitHub repository documenting my journey as an AI Data Analyst int
 - **Key Activities:**
   - Data wrangling: cleaning and transforming raw data.
   - Ensuring data quality and consistency for subsequent analysis.
-
+  - 
 
 ## Project Goals
 
